@@ -51,7 +51,6 @@ void mousePressed(){
   text(myText, mouseX + 15, mouseY);
   console.log(myText);
   
-  
 }
 
 //🟡Key Pressed Procedure - Runs When Keyboard Key is Pressed
